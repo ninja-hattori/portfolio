@@ -1,0 +1,109 @@
+<!-- NAV BAR -->
+<div class="myNavbar">
+    <div class="container-fluid ">
+		<div class="navbar-header">
+			<a href="#">MsHammie</a>
+		</div>
+		<div>
+			<ul class="nav navbar-nav" id = "navStuff">
+				<li><a href="#about" ><span class="about"></span> About</a></li>
+				<li><a href="#portfolio"><span class="portfolio"></span> Portfolio</a></li>
+				<li><a href="#contact"><span class="contact"></span> Contact</a></li>
+			</ul>
+		</div>
+	</div>
+</div>     
+<!-- End Nav Bar -->
+<!-- Home -->
+<section class="image-bg-fluid-height" id="about">
+  <h1>Cheri Hammick</h1>
+  <img class="img-responsive" src="https://res.cloudinary.com/chammick/image/upload/c_scale,e_art:incognito,w_400/a_0/v1484069559/chammick01062017_yecg6x.jpg">
+
+  <h3>Computer Science Teacher</h3>
+  <h3>Student</h3>
+  <h3>Future Nerd</h3>
+</section>
+<!--End Home-->
+<!--About-->
+<section class="image-bg-fluid-height" id="portfolio">
+  <h1>Portfolio</h1>
+  <div class= "row">
+    <div class = "col-sm-6 col-md-3"> 
+      <a href = "https://codepen.io/redhddone/full/ygezrM/" class = "thumbnail">
+        <img  src="http://api.screenshotmachine.com/?key=ca726c&url=https://codepen.io/redhddone/full/ygezrM/&size=N&cacheLimit=1" alt="Admiral Hopper Tribute Page" >
+      </a>
+      <p> Admiral Grace Hopper Tribute Page - FCC</p>
+      </div>
+    <div class = "col-sm-6 col-md-3"> 
+      <a href = "https://codepen.io/redhddone/full/zoMYXZ/" class = "thumbnail">
+        <img  src="http://api.screenshotmachine.com/?key=ca726c&url=https://codepen.io/redhddone/full/zoMYXZ/&size=N&cacheLimit=1" alt="Admiral Hopper Tribute Page" >
+      </a>
+      <p> Personal Portfolio Page - FCC</p>
+      </div>
+    <div class = "col-sm-6 col-md-3"> 
+      <a href = "#" class = "thumbnail">
+        <img  src="http://api.screenshotmachine.com/?key=ca726c&url=#&size=N&cacheLimit=1" alt="Admiral Hopper Tribute Page" >
+      </a>
+      <p> Coming Soon- FCC</p>
+      </div>
+<div class = "col-sm-6 col-md-3"> 
+      <a href = "#" class = "thumbnail">
+        <img  src="http://api.screenshotmachine.com/?key=ca726c&url=#&size=N&cacheLimit=1" alt="Admiral Hopper Tribute Page" >
+      </a>
+      <p> Coming Soon- FCC</p>
+      </div>
+  </div>
+  <div class = "row">
+    <div class = "col-sm-6 col-md-3"> 
+      <a href = "#" class = "thumbnail">
+        <img  src="http://api.screenshotmachine.com/?key=ca726c&url=#&size=N&cacheLimit=1" alt="Admiral Hopper Tribute Page" >
+      </a>
+      <p> Coming Soon- FCC</p>
+      </div>
+<div class = "col-sm-6 col-md-3"> 
+      <a href = "#" class = "thumbnail">
+        <img  src="http://api.screenshotmachine.com/?key=ca726c&url=#&size=N&cacheLimit=1" alt="Admiral Hopper Tribute Page" >
+      </a>
+      <p> Coming Soon- FCC</p>
+      </div>
+    <div class = "col-sm-6 col-md-3"> 
+      <a href = "#" class = "thumbnail">
+        <img  src="http://api.screenshotmachine.com/?key=ca726c&url=#&size=N&cacheLimit=1" alt="Admiral Hopper Tribute Page" >
+      </a>
+      <p> Coming Soon- FCC</p>
+      </div>
+<div class = "col-sm-6 col-md-3"> 
+      <a href = "#" class = "thumbnail">
+        <img  src="http://api.screenshotmachine.com/?key=ca726c&url=#&size=N&cacheLimit=1" alt="Admiral Hopper Tribute Page" >
+      </a>
+      <p> Coming Soon- FCC</p>
+      </div>
+  </div>
+</section>
+<!-- End Portfolio -->
+<!-- Contact -->
+<section class="image-bg-fluid-height" id="contact">
+  <form action = "mailto:cheri.hammick@gmail.com" method = "post" enctype = "text/plain">
+    <div class = "row">
+      <h1> CONTACT ME: </h1>
+      <br></br>
+      <div class = "form-group">
+        <label for = "name">NAME: </label>
+        <input type = "name" id = "name" class="form-control" placeholder = "Enter Name" size = "50">
+    </div>
+    <div class = "form-group">
+               <label for = "email">EMAIL: </label>
+        <input type = "email" id = "email" class = "form-control" placeholder = "Enter Email Address" size = "50">
+    </div>
+      <br></br>
+  <div class = "form-group">
+      <label class = "control-label" for = "comment">COMMENT: </label>
+        <input type = "comment" id = "comment" class = "form-control" size = "250">
+    <br></br>
+  <button type = "submit" class = "btn btn-default">Submit</button>
+      </div>
+    </div>
+      </div>
+      </form>
+</section>
+<!--End Contact -->

@@ -1,0 +1,24 @@
+<span id="welcome">WELCOME</span>
+
+<img src="images/waving-emon_hi2.gif" alt=""><br/>
+
+<span id="a">hattori@ninja</span>:<span id="b">~</span><span id="c">#</span> cat aboutme.txt<br/>
+I'm Shabdik Chakraborty, a "<span id="k">Certified Ethical Hacker (CEHv11)</span>".  My area of interest involves Offensive Security, Red Teaming, Open Source Intelligence, Web Application Testing and Host penetration testing. I'm a zealous learner of Information Security for more than 2 years now. 
+
+Currently I am working at <a href="https://www.linkedin.com/company/cdac-kolkata/" target="_blank">Centre for Development of Advanced Computing (CDAC), Kolkata</a> as an Information Security Analyst.
+
+Here's my <a href="https://drive.google.com/file/d/1HbcOShgNo2Odh_aCuBbT_xpxrvjsBOQJ/view?usp=sharing" target="_blank">resume</a> if you are looking to hire me.
+
+I develop some cool <a href="https://github.com/ninja-hattori" target="_blank">Projects</a> occasionally.
+
+My other hobbies include exploring cars and playing computer games. I also create gaming related <a href="https://www.youtube.com/channel/UCFI4M1576GFV6JmZZ9Y0fBQ" target="_blank">videos</a> occasionally.
+<span id="a">hattori@ninja</span>:<span id="b">~</span><span id="c">#</span> cat contact.txt
+
+You can reach me at <a href="mailto:shabdik.dns@gmail.com">shabdik.dns@gmail.com</a>.
+My other social media handles include 
+
+# <a href="https://www.linkedin.com/in/shabdik-chakraborty-a18717184" target="_blank">LinkedIn</a>
+# <a href="https://www.facebook.com/shabdik.chakraborty/" target="_blank">Facebook</a>
+# <a href="https://www.instagram.com/the_car_pagol_guy/" target="_blank">Instagram</a> 
+
+<span id="a">hattori@ninja</span>:<span id="b">~</span><span id="c">#</span> exit 

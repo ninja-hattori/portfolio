@@ -1,0 +1,48 @@
+<section class="image-bg-fluid-height" id="about">
+  <img class="img-responsive" src="images/Copy of 702.jpg">
+</section>
+
+
+<div class="container">
+  <div class="bar__container">
+    <div class="bar__item skill-1">
+      <span class="bar__name">Skill 1</span>
+    </div>
+  </div>
+  <div class="bar__container">
+    <div class="bar__item skill-2">
+      <span class="bar__name">Skill 2</span>
+    </div>
+  </div>
+  <div class="bar__container">
+    <div class="bar__item skill-3">
+      <span class="bar__name">Skill 3</span>
+    </div>
+  </div>
+</div>
+
+
+          
+          
+<div class="container">
+  <div class="row">
+    <div class="col-6 col-md-3">
+        <div class="card skill-card">
+            <div class="card-img">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" class="img-fluid">
+            </div>
+            <div class="card-body">
+                <h4>HTML</h4>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- <script type="text/javascript" src="js/skillbar.js"></script> -->
+ <!--  <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js'></script>
+ <script type="text/javascript" src="test.js"></script> -->
+<div>
+<canvas id="marksChart" width="600" height="400"></canvas>
+</div>
