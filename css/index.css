@@ -1,0 +1,89 @@
+:root {
+	background-color: #000 !important;
+}
+
+body {
+	background-color: #000
+}
+
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	font-size: 19px;
+}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+#welcome {
+	font-family: courier, monospace;
+	font-size: 500%;
+}
+
+#a {
+	color: #0f0;
+}
+
+#c {
+	color: #0bc;
+}
+
+#b {
+	color: #ff0096;
+}
+
+#k {
+	animation: change 1s;
+}
+
+#op {
+	color: #888888
+}
+
+@keyframes change {
+	0% {
+		color: rgb(255, 0, 0);
+	}
+
+	50% {
+		color: rgb(255, 0, 0);
+	}
+
+	99% {
+		color: black;
+	}
+}
+
+.img1 {
+	display: block;
+	border-radius: 50%;
+	/* margin-left: auto;
+	margin-right: auto; */
+	width: auto;
+	height: auto;
+	max-width: 20%;
+	max-height: 20%;
+}
+
+.skills{
+	display: block;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	height: auto;
+}
+
+/* #marksChart{
+	display: block;
+} */
+
+/* #marksChart {
+	background-color: #fff;
+} */
